@@ -4,5 +4,5 @@ About data :-
 2. Time is the time (in minutes) from 00:00 midnight.
 3. Call represents the ID of the customer.
 
-###Final Graph
+### Final Graph
 <image src="waittime_vs_number_of_agents.png">
