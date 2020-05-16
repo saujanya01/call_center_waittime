@@ -5,4 +5,4 @@ About data :-
 3. Call represents the ID of the customer.
 
 ###Final Graph
-<image src="waittime_vs_number_of_agents.png">
+<image src="final_graph.png">
