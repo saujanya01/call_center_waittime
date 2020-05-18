@@ -5,7 +5,7 @@ About data :-
 3. Call represents the ID of the customer.
 
 ### Wait-time vs Number of agents
-<image src="waittime_vs_number_of_agents.png">
+<image src="final_graph.png">
 
 ### Number of Agents vs Time of Day
 <image src="agent_vs_time_of_day.png">
